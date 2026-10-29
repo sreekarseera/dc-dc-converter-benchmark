@@ -1,0 +1,10 @@
+{
+  "prepared": "2026-10-29",
+  "supplied_report": {
+    "filename": "dcdc_buck_converter_analysis.docx",
+    "sha256": "d2f3b9b5282d5cfd7cd3814a3c5f4c6b42b943cf96ed9e49ea4cd2f8091b4c75",
+    "copied_into_repository": false
+  },
+  "original_implementation_located": false,
+  "new_implementation": "src/benchmark.py and tools/model_losses.py"
+}

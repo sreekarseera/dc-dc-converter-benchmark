@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pio/
+.env
+.env.*
+!.env.example
+var/
+output/
+.DS_Store
+lib/voice-model/
+*.sqlite*
+*.db
